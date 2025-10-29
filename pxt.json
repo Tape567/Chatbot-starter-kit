@@ -1,0 +1,10 @@
+{
+    "name": "chatbot",
+    "description": "A simple chatbot extension for MakeCode Arcade.",
+    "dependencies": {},
+    "files": [
+        "chatbot.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
